@@ -1,0 +1,23 @@
+.artical{
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+
+.artical__content{
+    margin-left: 20px;
+    width: 70%;
+
+}
+
+p.artical_content-detail{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.artical_content-view{
+
+    width: 100px;
+    height: 30px;
+    background: white;
+}
